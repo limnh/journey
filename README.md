@@ -5,6 +5,10 @@ Each week, a new ticket will be created to track work being done and questions a
 
 Issues will be numbered with any relevant information nested beneath.
 
+#### Where I left off yesterday:
+
+#### Daily To-Do List:
+
 #### Questions/Issue:
 1. Issue
 - Relevant questions
